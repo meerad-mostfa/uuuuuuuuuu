@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\bin\Debug\net8.0\asp_Infrastructre.deps.json
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\bin\Debug\net8.0\asp_Infrastructre.runtimeconfig.json
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\bin\Debug\net8.0\asp_Infrastructre.dll
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\bin\Debug\net8.0\asp_Infrastructre.pdb
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\bin\Debug\net8.0\asp_core.dll
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\bin\Debug\net8.0\asp_core.pdb
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\obj\Debug\net8.0\asp_Infrastructre.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\obj\Debug\net8.0\asp_Infrastructre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\obj\Debug\net8.0\asp_Infrastructre.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\obj\Debug\net8.0\asp_Infrastructre.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\obj\Debug\net8.0\asp_Infrastructre.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\obj\Debug\net8.0\asp_Infr.1D40E49F.Up2Date
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\obj\Debug\net8.0\asp_Infrastructre.dll
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\obj\Debug\net8.0\refint\asp_Infrastructre.dll
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\obj\Debug\net8.0\asp_Infrastructre.pdb
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\obj\Debug\net8.0\asp_Infrastructre.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\back\c#\asp_Infrastructre\obj\Debug\net8.0\ref\asp_Infrastructre.dll
